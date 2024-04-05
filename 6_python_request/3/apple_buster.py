@@ -21,4 +21,4 @@ def buster_5char(target,characters):
                         if(checker(gen,target)):
                             return
 
-buster_5char('aaabc','abcdefghijklmnopqrstuvwxyz')
+buster_5char('apple','abcdefghijklmnopqrstuvwxyz')
